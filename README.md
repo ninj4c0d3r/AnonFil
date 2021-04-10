@@ -10,4 +10,4 @@ g++ AnonFil.cpp -o AnonFil.exe
 - Execute as administrator.
 
 # Screenshot
-![Screenshot](screenshot.png)
+![](Screenshot.png)
